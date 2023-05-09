@@ -1,0 +1,72 @@
+[
+	{
+		"dataType": 15,
+		"modelResource": "com.liferay.portal.kernel.model.User",
+		"name": "fatherName",
+		"properties": {
+			"hidden": false,
+			"indexType": 2,
+			"localizeField": false,
+			"localizeFieldName": true,
+			"secret": false,
+			"visibleWithUpdatePermission": false,
+			"width": "0"
+		}
+	},
+	{
+		"dataType": 15,
+		"modelResource": "com.liferay.portal.kernel.model.User",
+		"name": "motherName",
+		"properties": {
+			"hidden": false,
+			"indexType": 2,
+			"localizeField": false,
+			"localizeFieldName": true,
+			"secret": false,
+			"visibleWithUpdatePermission": false,
+			"width": "0"
+		}
+	},
+	{
+		"dataType": 15,
+		"modelResource": "com.liferay.portal.kernel.model.User",
+		"name": "nickname",
+		"properties": {
+			"hidden": false,
+			"indexType": 2,
+			"localizeField": false,
+			"localizeFieldName": true,
+			"secret": false,
+			"visibleWithUpdatePermission": false,
+			"width": "0"
+		}
+	},
+	{
+		"dataType": 15,
+		"modelResource": "com.liferay.portal.kernel.model.User",
+		"name": "occupation",
+		"properties": {
+			"hidden": false,
+			"indexType": 2,
+			"localizeField": false,
+			"localizeFieldName": true,
+			"secret": false,
+			"visibleWithUpdatePermission": false,
+			"width": "0"
+		}
+	},
+	{
+		"dataType": 15,
+		"modelResource": "com.liferay.portal.kernel.model.User",
+		"name": "spouseName",
+		"properties": {
+			"hidden": false,
+			"indexType": 2,
+			"localizeField": false,
+			"localizeFieldName": true,
+			"secret": false,
+			"visibleWithUpdatePermission": false,
+			"width": "0"
+		}
+	}
+]
